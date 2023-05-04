@@ -1,6 +1,8 @@
 
 <img src="/Images/Logo.png"> 
 
+<img src="/Images/black_ice.png"> 
+
 ## Description
   
 The Xenium Black Ice is a clone of the original Xenium Ice mod chip for the OG Xbox gaming console. It allows users to bypass security features and install custom firmware, enabling various modifications and enhancements to the console's functionality.
