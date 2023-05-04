@@ -13,7 +13,7 @@ This repository contains the Gerber files and BOM (Bill of Materials) required t
 
 PCB Thickness: 1mm
 
-Project Sponsored by: [PCBWAY](https://www.pcbway.com/)
+Project sponsored by: [PCBWAY](https://www.pcbway.com/)
   
 ## Questions
 ✉️ Contact me with any questions: [email](mailto:support@themodshop.co)<br />
