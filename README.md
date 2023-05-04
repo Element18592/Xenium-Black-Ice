@@ -1,7 +1,9 @@
 
 <img src="/Images/Logo.png"> 
 
+
 <img src="/Images/black_ice.png"> 
+
 
 ## Description
   
@@ -11,7 +13,7 @@ This repository contains the Gerber files and BOM (Bill of Materials) required t
 
 PCB Thickness: 1mm
 
-Project Sponsored by: [PCBWAY](https://www.pcbway.com/).
+Project Sponsored by: [PCBWAY](https://www.pcbway.com/)
   
 ## Questions
 ✉️ Contact me with any questions: [email](mailto:support@themodshop.co)<br />
