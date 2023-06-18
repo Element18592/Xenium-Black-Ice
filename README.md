@@ -13,6 +13,8 @@ This repository contains the Gerber files and BOM (Bill of Materials) required t
 
 PCB Thickness: 1mm
 
+Huge thanks to [Ryzee119](https://github.com/Ryzee119/OpenXenium), without his OpenXenium code this project wouldn't be possible.
+
 Project sponsored by: [PCBWAY](https://www.pcbway.com/)
   
 ## Questions
